@@ -148,7 +148,7 @@ void buscarElemento()
 	int pos = posicaoElemento(valor);
 
 	if (pos != -1) {
-		cout << "O elemento foi encontrado na posicao" << pos << endl;
+		cout << "O elemento foi encontrado na posicao " << pos << endl;
 	}
 	else
 	{
